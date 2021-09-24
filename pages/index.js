@@ -7,7 +7,7 @@ export default function Home() {
     {
       props: {
       },
-      revalidate: 600
+      revalidate: 10
     },
     <div className={styles.container}>
       <Head>
